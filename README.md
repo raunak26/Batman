@@ -1,6 +1,5 @@
 # batman.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # This program draws Batman Logo using 4 different functions
 #
 
