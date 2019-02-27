@@ -1,8 +1,5 @@
+this program draws Batman Logo using 4 different functions
 # batman.py
-# Raunak Anand
-# This program draws Batman Logo using 4 different functions
-#
-#
 
 from math import sqrt
 import turtle
@@ -15,7 +12,7 @@ batman = turtle.Turtle() # create a turtle called "batman"
 batman.color("yellow") # color of pen is yellow
 batman.speed(10) # speed of pen
 
-# provided functions
+This# provided functions
 def f1(x):
     return 2 * sqrt((-abs(abs(x)-1)) * abs(3 - abs(x))/((abs(x)-1)*(3-abs(x)))) * \
             (1 + abs(abs(x)-3)/(abs(x)-3))*sqrt(1-(x/7)**2)+(5+0.97*(abs(x-0.5)+abs(x+0.5))-\
