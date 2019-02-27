@@ -1,4 +1,4 @@
-this program draws Batman Logo using 4 different functions
+#this program draws Batman Logo using 4 different functions
 #batman.py
 
 from math import sqrt
